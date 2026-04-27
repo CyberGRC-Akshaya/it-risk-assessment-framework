@@ -93,7 +93,7 @@ STEP 8: MONITORING & REVIEW
 
 ## ✍️ Author
 
-**Akshaya** | Sr. Manager, Risk & Compliance | ISO 27001 LA | CIAP (DRDO/MoD)
+**Akshaya** | Risk & Compliance | ISO 27001 LA | ISO 27701 LA | IAP (DRDO/MoD)
 
 *"Every risk register I've built has been from scratch — no inherited templates, no existing baselines. This framework distils what actually works across real enterprise environments."*
 
